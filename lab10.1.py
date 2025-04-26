@@ -1,0 +1,1 @@
+f = open("/Users/Jaagrav/Documents/CODING/Python for CLG/Python lab-10")
